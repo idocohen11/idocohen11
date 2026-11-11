@@ -31,7 +31,7 @@ I'm a Computer Science student at Bar-Ilan University who enjoys building practi
 
 ## 🚀 Featured Projects
 
-### 🌍 EcoGuard Agents
+### 🌍 [EcoGuard Agents](https://github.com/YonatanReich/EcoGuard-Agents)
 **Environmental monitoring and emergency decision support | Collaborative project**
 
 A multi-agent platform that monitors fires, floods, air pollution, and earthquakes. It brings together environmental data, incident detection, analysis, response planning, and an interactive dashboard.
