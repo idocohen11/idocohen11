@@ -1,70 +1,126 @@
 <div align="center">
 
-# Hi, I'm Ido Cohen 👋
+<img src="./assets/profile-banner.svg" alt="Ido Cohen — Computer Science, Backend, Automation and Machine Learning" width="100%" />
 
-### Computer Science Student | Software Development | Backend & Automation
+<br/>
 
-I'm a Computer Science student at Bar-Ilan University who enjoys building practical software, solving challenging problems, and learning how systems work — from low-level programming to full-stack applications.
+**Computer Science Student @ Bar-Ilan University**
 
-[![GitHub](https://img.shields.io/badge/GitHub-idocohen11-181717?style=flat-square&logo=github)](https://github.com/idocohen11)
+Building reliable software, exploring intelligent systems, and learning how things work under the hood.
+
+[![Profile](https://img.shields.io/badge/GitHub-idocohen11-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idocohen11)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-2563EB?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge)
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Computer Science student at **Bar-Ilan University**.
-- 💻 Experience building full-stack applications, Python-based systems, and database-driven projects.
-- 🔍 Interested in backend engineering, software quality, automation, and machine learning.
-- 🤝 Enjoy collaborating on technical projects and improving software step by step.
+## ✨ About Me
 
-## 🛠️ Technical Skills
+I'm **Ido Cohen**, a Computer Science student at **Bar-Ilan University**. I enjoy solving problems and turning ideas into working software — from full-stack applications and APIs to data-driven systems and low-level programming.
 
-| Category | Skills |
-| --- | --- |
-| **Programming Languages** | Python, Java, C, JavaScript, TypeScript, SQL, Assembly |
-| **Software Engineering** | Object-Oriented Programming (OOP), Data Structures & Algorithms, Debugging, Automated Testing |
-| **Systems** | Operating Systems, Linux, Low-Level Programming |
-| **AI & Data** | Machine Learning, Artificial Intelligence, Data Analysis |
-| **Backend & Frontend** | FastAPI, Flask, React, Node.js, Express, REST APIs |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Tools** | Git, GitHub, Docker |
+- 🔭 **What I build:** backend services, web applications, automation, and database-driven tools
+- 🧠 **What I explore:** machine learning, algorithms, operating systems, and software architecture
+- 🤝 **How I work:** curious, systematic, and collaborative
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-334155?style=flat-square)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-303030?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌍 [EcoGuard Agents](https://github.com/YonatanReich/EcoGuard-Agents)
-**Environmental monitoring and emergency decision support | Collaborative project**
 
-A multi-agent platform that monitors fires, floods, air pollution, and earthquakes. It brings together environmental data, incident detection, analysis, response planning, and an interactive dashboard.
+**Environmental monitoring · Collaborative project**
 
-`Python` · `FastAPI` · `PostgreSQL / PostGIS` · `React` · `TypeScript`
+A multi-agent environmental monitoring and decision-support system that combines hazard detection, analysis, response planning, and a live dashboard.
+
+`Python` `FastAPI` `PostGIS` `React` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🍽️ [FoodWise](https://github.com/idocohen11/FoodWise)
-**Recipe discovery and pantry management**
 
-A database-driven web application for recipe searches, pantry tracking, meal recommendations, favorites, and SQL query exploration.
+**Recipe discovery · Relational databases**
 
-`Python` · `Flask` · `MySQL` · `JavaScript`
+A web app for recipe searches, pantry management, meal recommendations, favorites, and interactive SQL exploration.
+
+`Python` `Flask` `MySQL` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ▶️ [YouTube Clone](https://github.com/idocohen11/YouTube-Clone)
-**Full-stack web development project**
+
+**Full-stack web development**
 
 A video platform project with separate frontend and backend components.
 
-`React` · `Node.js` · `Express` · `MongoDB`
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧱 [Brick Breaker](https://github.com/idocohen11/Brick-Breaker)
-**Object-Oriented Java game**
 
-An Arkanoid-style game featuring multiple levels, collision detection, controls, and scoring.
+**Object-oriented Java game**
 
-`Java` · `OOP`
+An Arkanoid-inspired game featuring levels, collision detection, controls, and scoring.
+
+`Java` `OOP`
+
+</td>
+</tr>
+</table>
 
 ## 📚 Computer Science Foundations
 
-Object-Oriented Programming · Operating Systems · Assembly & Low-Level Programming · Machine Learning · Algorithms · Software Engineering
+`Object-Oriented Programming` · `Operating Systems` · `Assembly & Low-Level Programming` · `Machine Learning` · `Data Structures & Algorithms` · `Software Engineering` · `Automated Testing`
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting! Explore my projects and repositories below.</i>
+
+**Thanks for stopping by!** ✨
+
+<sub>Always learning. Always building.</sub>
+
 </div>
